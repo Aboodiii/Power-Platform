@@ -52,11 +52,11 @@ Enhanced Collaboration: Granular permissions and clear approval trails ensure pr
 **Approval-Driven Status Update**: 
 [Approval-DrivenStatusUpdate_20231218080909.zip](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/files/13701083/Approval-DrivenStatusUpdate_20231218080909.zip)
 
-<img width="150" alt="Screenshot 2023-12-18 111646" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/c27cff73-1042-4681-83d0-61c6fced4841">
-<img width="150" alt="Screenshot 2023-12-18 111655" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/41d35592-1c2c-4460-9150-096bdaffd6f4">
-<img width="150" alt="Screenshot 2023-12-18 111747" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/9d4fdabb-5edf-4c59-864e-17fcf1e87571">
-<img width="150" alt="Screenshot 2023-12-18 111806" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/b4b457d4-146f-46f8-8628-e8744a59b87d">
-<img width="150" alt="Screenshot 2023-12-18 111821" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/2ca33f1f-7027-4829-ae26-54760735621f">
+<img width="500" alt="Screenshot 2023-12-18 111646" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/c27cff73-1042-4681-83d0-61c6fced4841">
+<img width="500" alt="Screenshot 2023-12-18 111655" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/41d35592-1c2c-4460-9150-096bdaffd6f4">
+<img width="500" alt="Screenshot 2023-12-18 111747" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/9d4fdabb-5edf-4c59-864e-17fcf1e87571">
+<img width="500" alt="Screenshot 2023-12-18 111806" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/b4b457d4-146f-46f8-8628-e8744a59b87d">
+<img width="500" alt="Screenshot 2023-12-18 111821" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/2ca33f1f-7027-4829-ae26-54760735621f">
 
 **Rejected File Cleanup Flow**:
 [RejectedFileCleanup_20231218081009.zip](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/files/13701081/RejectedFileCleanup_20231218081009.zip)
