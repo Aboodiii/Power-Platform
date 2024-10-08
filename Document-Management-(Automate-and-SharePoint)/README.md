@@ -66,10 +66,10 @@ Enhanced Collaboration: Granular permissions and clear approval trails ensure pr
 
 ## Snapshots From Document Library
 
-<img width="300" alt="Screenshot 2023-12-18 113312" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/5526a703-fbc2-48e1-b160-dda9343face7">
-<img width="300" alt="Screenshot 2023-12-18 113328" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/92949b7d-9221-4d31-982f-4d4a2f869de5">
-<img width="300" alt="Screenshot 2023-12-18 113353" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/831c71a0-62a1-4e96-a9a3-6035a9b94227">
-<img width="300" alt="Screenshot 2023-12-18 113430" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/8dfbaab0-4afa-4485-8a15-56bb89073474">
+<img width="500" alt="Screenshot 2023-12-18 113312" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/5526a703-fbc2-48e1-b160-dda9343face7">
+<img width="500" alt="Screenshot 2023-12-18 113328" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/92949b7d-9221-4d31-982f-4d4a2f869de5">
+<img width="500" alt="Screenshot 2023-12-18 113353" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/831c71a0-62a1-4e96-a9a3-6035a9b94227">
+<img width="500" alt="Screenshot 2023-12-18 113430" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/8dfbaab0-4afa-4485-8a15-56bb89073474">
 
 
 
