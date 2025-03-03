@@ -6,23 +6,23 @@ Welcome to the Paw & Heart Animal Shelter Management repository! This project sh
 
 Developed for the Power Up Challenge, this solution addresses the operational hurdles faced by animal shelters by offering:
 
- Centralized Data Storage : Organizes shelters, animals, and foster family records.
+ **Centralized Data Storage :** Organizes shelters, animals, and foster family records.
 
-### Automated Workflows: Simplifies animal handling and fostering.
+ **Automated Workflows:** Simplifies animal handling and fostering.
 
-### Insights & Reports: Tracks fostering activities and shelter performance.
+**Insights & Reports:** Tracks fostering activities and shelter performance.
 
  ## 🌟 Features
 
-Dataverse: Stores animals, shelters, and foster families with predefined relationships.
+**Dataverse:** Stores animals, shelters, and foster families with predefined relationships.
 
-Model-Driven App: Helps shelter staff manage animals and workflows.
+**Model-Driven App:** Helps shelter staff manage animals and workflows.
 
-Canvas App: Allows foster families to browse and claim animals.
+**Canvas App:** Allows foster families to browse and claim animals.
 
-Power Automate: Sends automatic email notifications for fostering updates.
+**Power Automate:** Sends automatic email notifications for fostering updates.
 
-Power BI: Provides visual reports on shelter performance.
+**Power BI:** Provides visual reports on shelter performance.
 
 ## 🏗️ Solution Components
 
@@ -65,4 +65,6 @@ Canvas App
 Power Automate
 
 Power BI
+
+<img width="500" alt="Screenshot 2023-12-18 111646" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/c27cff73-1042-4681-83d0-61c6fced4841">
 
