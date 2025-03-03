@@ -66,5 +66,9 @@ Power Automate
 
 Power BI
 
-<img width="500" alt="Screenshot 2023-12-18 111646" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/c27cff73-1042-4681-83d0-61c6fced4841">
-
+<img width="1200" alt="Screenshot 2023-12-18 111646" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/CanvasApp.png">
+<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/CanvasAppII.png">
+<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp.png">
+<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp2.png">
+<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/PowerAutomate.png">
+<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/BI%20Dashboard.png">
