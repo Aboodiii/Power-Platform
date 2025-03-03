@@ -1,4 +1,4 @@
-## Paw & Heart Animal Shelter Management
+# Paw & Heart Animal Shelter Management
 
 Welcome to the Paw & Heart Animal Shelter Management repository! This project showcases an innovative solution built with Microsoft Power Platform to optimize operations at Paw & Heart, an animal rescue charity. The system simplifies animal management, fosters workflows, and delivers valuable insights.
 
