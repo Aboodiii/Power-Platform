@@ -56,19 +56,19 @@ Insights: Enables data-driven decisions to promote fostering.
 
 ## 🌐 Technologies Used
 
-Microsoft Dataverse
+**Microsoft Dataverse**
 
-Model-Driven App
+**Model-Driven App**
 
-Canvas App
+**Canvas App**
 
-Power Automate
+**Power Automate**
 
-Power BI
+**Power BI**
 
 <img width="1200" alt="Screenshot 2023-12-18 111646" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/CanvasApp.png">
-<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/CanvasAppII.png">
-<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp.png">
-<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp2.png">
-<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/PowerAutomate.png">
-<img width="1200" alt="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/BI%20Dashboard.png">
+<img width="1200" alt="CanvasAppII.png" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/CanvasAppII.png">
+<img width="1200" alt="Model-DrivenApp.png" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp.png">
+<img width="1200" alt="Model-DrivenApp2.png" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/Model-DrivenApp2.png">
+<img width="1200" alt="powerAutomate.png" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/PowerAutomate.png">
+<img width="1200" alt="BI%20Dashboard.png" src="https://github.com/Aboodiii/Power-Platform/blob/main/Paw%20%26%20Heart%20Animal%20Shelter%20Manager/BI%20Dashboard.png">
