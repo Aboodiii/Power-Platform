@@ -6,11 +6,11 @@ Welcome to the Paw & Heart Animal Shelter Management repository! This project sh
 
 Developed for the Power Up Challenge, this solution addresses the operational hurdles faced by animal shelters by offering:
 
-Centralized Data Storage: Organizes shelters, animals, and foster family records.
+ Centralized Data Storage : Organizes shelters, animals, and foster family records.
 
-Automated Workflows: Simplifies animal handling and fostering.
+### Automated Workflows: Simplifies animal handling and fostering.
 
-Insights & Reports: Tracks fostering activities and shelter performance.
+### Insights & Reports: Tracks fostering activities and shelter performance.
 
  ## 🌟 Features
 
